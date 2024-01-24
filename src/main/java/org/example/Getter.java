@@ -1,2 +1,4 @@
-package org.example;public @interface Getter {
+package org.example;
+
+public @interface Getter {
 }
